@@ -14,3 +14,7 @@ Bye for now, FreeBSDKernel9-0.
 One final attempt to pair: https://googlechromelabs.github.io/bluetooth-samples/gattserverobserver/
 
 Bye for now, FreeBSDKernel9-0.
+
+Ok, I lied, another URL (Puppy Linux SUCKS): https://nodeloop.org/tools/webbluetooth-gatt-explorer/
+
+Bye for now, FreeBSDKernel9-0.
