@@ -10,3 +10,7 @@ Bye for now, FreeBSDKernel9-0.
 Quick command copy-paste for later: while true; do bluetoothctl info 14:D4:24:D8:C5:00; sleep 10; done
 
 Bye for now, FreeBSDKernel9-0.
+
+One final attempt to pair: https://googlechromelabs.github.io/bluetooth-samples/gattserverobserver/
+
+Bye for now, FreeBSDKernel9-0.
